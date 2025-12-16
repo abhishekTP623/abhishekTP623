@@ -79,7 +79,7 @@ MySQL · PostgreSQL · SQL · Git · GitHub
 
 ### BI & Visualization
 
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/PowerBI.png" width="48" />
+<img src="https://camo.githubusercontent.com/28257403c14fcebc145d88944ca5e6075c1472ebf3f503798109f7f0c78f0d94/68747470733a2f2f696d67732e7365617263682e62726176652e636f6d2f47305631784c78766d6d46554d4174646b694c6c4f464b59366f647569714a47577a66495a6d3453452d412f72733a6669743a3530303a303a313a302f673a63652f6148523063484d364c793973623264762f6347397763476c754c6d4e76625339332f6343316a623235305a5735304c3356772f624739685a484d764d6a41794e5338772f4e5339516233646c63693143535331732f623264764c5449774d6a41744d5441792f4e4867314e7a5975643256696341" width="48" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="48" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" width="48" />
 
