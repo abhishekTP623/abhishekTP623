@@ -35,7 +35,7 @@
 </td>
 <td width="40%">
 
-```python
+python
 class DataAnalyst:
     def __init__(self):
         self.name = "Abhishek T"
