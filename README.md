@@ -39,8 +39,7 @@ Hypothesis Testing • Probability • Statistical Inference • Regression Anal
 
 ## Technology Stack
 
-**BI & Visualization**
-Power BI · Microsoft Excel · Tableau
+**BI & Visualization** <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="28" />   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="28" />   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Tableau_logo.svg" height="28" />
 
 **Data & Machine Learning**
 Python · Pandas · NumPy · Scikit-learn · NLP
