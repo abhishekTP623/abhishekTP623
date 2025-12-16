@@ -39,7 +39,9 @@ Hypothesis Testing • Probability • Statistical Inference • Regression Anal
 
 ## Technology Stack
 
-**BI & Visualization** <img src="https://imgs.search.brave.com/G0V1xLxvmmFUMAtdkiLlOFKY6oduiqJGWzfIZm4SE-A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sb2dv/cG9wcGluLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/NS9Qb3dlci1CSS1s/b2dvLTIwMjAtMTAy/NHg1NzYud2VicA" height="28" />   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="28" />   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Tableau_logo.svg" height="28" />
+**BI & Visualization** <img src="https://seeklogo.com/vector-logo/439962/power-bi-icon" height="28" /> 
+<img src="https://www.freepik.com/free-photos-vectors/excel-logo" height="28" />   
+<img src="https://wallpapers.com/tableau-logo-png" height="28" />
 
 **Data & Machine Learning**
 Python · Pandas · NumPy · Scikit-learn · NLP
@@ -79,9 +81,9 @@ MySQL · PostgreSQL · SQL · Git · GitHub
 
 ### BI & Visualization
 
-<img src="https://camo.githubusercontent.com/28257403c14fcebc145d88944ca5e6075c1472ebf3f503798109f7f0c78f0d94/68747470733a2f2f696d67732e7365617263682e62726176652e636f6d2f47305631784c78766d6d46554d4174646b694c6c4f464b59366f647569714a47577a66495a6d3453452d412f72733a6669743a3530303a303a313a302f673a63652f6148523063484d364c793973623264762f6347397763476c754c6d4e76625339332f6343316a623235305a5735304c3356772f624739685a484d764d6a41794e5338772f4e5339516233646c63693143535331732f623264764c5449774d6a41744d5441792f4e4867314e7a5975643256696341" width="48" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="48" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" width="48" />
+<img src="https://seeklogo.com/vector-logo/439962/power-bi-icon" width="48" />
+<img src="https://www.freepik.com/free-photos-vectors/excel-logo" width="48" />
+<img src="https://wallpapers.com/tableau-logo-png" width="48" />
 
 <br/>
 <b>Power BI</b> · Tableau · Excel
