@@ -61,3 +61,4 @@ class DataAnalyst:
     
 me = DataAnalyst()
 print(f"✅ {me.name} - Ready to add value!")
+<div align="center"><!-- ANIMATED TECH CAROUSEL --><p align="center"> <img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikit,tensorflow,pytorch&perline=6" /> <br> <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,sqlite&perline=5" /> <br> <img src="https://skillicons.dev/icons?i=powerbi,tableau,git,github,vscode,jupyter&perline=6" /> </p></div>
