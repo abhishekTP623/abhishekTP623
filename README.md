@@ -39,13 +39,14 @@ Hypothesis Testing • Probability • Statistical Inference • Regression Anal
 
 ## Technology Stack
 
-<!-- Core Tools (minimal & reliable) -->
+**BI & Visualization**
+Power BI · Microsoft Excel · Tableau
 
-**BI & Visualization** <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+**Data & Machine Learning**
+Python · Pandas · NumPy · Scikit-learn · NLP
 
-**Data & ML** <img src="https://img.shields.io/badge/Python-1f77b4?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/NLP-4CAF50?style=flat" />
-
-**Databases & Tools** <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-003B57?style=flat" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+**Databases & Tools**
+MySQL · PostgreSQL · SQL · Git · GitHub
 
 ---
 
