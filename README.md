@@ -1,33 +1,72 @@
-# **ABHISHEK T | Senior Data & AI Analyst**
-*Transforming Raw Data into Strategic Business Intelligence | ML Ops | Predictive Analytics | Enterprise Dashboard Solutions*
-
----
-
-## **🏆 INDUSTRY CERTIFICATIONS & BADGES**
-![AWS Certified Data Analytics](https://img.shields.io/badge/AWS_Certified-Data_Analytics-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Data Analytics](https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white)
-![Microsoft Certified: Power BI](https://img.shields.io/badge/Microsoft_Certified-Power_BI-5C2D91?style=flat-square&logo=powerbi&logoColor=white)
-![TensorFlow Developer](https://img.shields.io/badge/TensorFlow_Developer-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
----
-
-## **🛠️ ENTERPRISE TECHNOLOGY STACK**
-
-### **MACHINE LEARNING & AI**
 <div align="center">
-  
-| **Production ML** | **Deep Learning** | **NLP & Computer Vision** | **MLOps & Deployment** |
-|-------------------|-------------------|---------------------------|------------------------|
-| ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Production_Ready-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![spaCy](https://img.shields.io/badge/spaCy-NLP-09A3D5?style=flat-square&logo=spacy&logoColor=white) | ![MLflow](https://img.shields.io/badge/MLflow-Experiment_Tracking-0194E2?style=flat-square) |
-| ![XGBoost](https://img.shields.io/badge/XGBoost-Gradient_Boosting-3776AB?style=flat-square) | ![PyTorch](https://img.shields.io/badge/PyTorch-Research_Ready-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Transformers](https://img.shields.io/badge/🤗_Transformers-HuggingFace-FFD21E?style=flat-square) | ![DVC](https://img.shields.io/badge/DVC-Data_Version_Control-945DD6?style=flat-square) |
-| ![LightGBM](https://img.shields.io/badge/LightGBM-Microsoft-9ED448?style=flat-square) | ![Keras](https://img.shields.io/badge/Keras-High_Level_API-D00000?style=flat-square&logo=keras&logoColor=white) | ![NLTK](https://img.shields.io/badge/NLTK-Linguistics-2596BE?style=flat-square) | ![FastAPI](https://img.shields.io/badge/FastAPI-ML_API-009688?style=flat-square&logo=fastapi&logoColor=white) |
+
+<!-- HEADER WITH ANIMATED TITLE -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=60&lines=ABHISHEK+T;SENIOR+DATA+%26+AI+ANALYST;ENTERPRISE+ANALYTICS+%7C+ML+OPS+%7C+BI+STRATEGY" alt="Typing SVG" />
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="10" />
+
+<!-- SUBTITLE WITH EMOJIS -->
+<p align="center">
+  <b>Transforming Data into Strategic Assets • Building Intelligent Analytics Platforms • Driving Business Impact</b>
+</p>
+
+<!-- PROFILE VIEWS AND STATUS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" /> 
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-blue?style=flat&logo=github" alt="status" />
+  <img src="https://img.shields.io/badge/Available%20for-Freelance%20%7C%20Full--time-success?style=flat" alt="availability" />
+</p>
 
 </div>
 
-### **DATA ENGINEERING & CLOUD**
-```yaml
-Cloud Platforms: AWS | Azure | GCP (Certified Solutions)
-Big Data: Spark | Hadoop | Databricks
-Databases: PostgreSQL | MySQL | MongoDB | Redis | Snowflake
-Data Pipelines: Apache Airflow | Luigi | Prefect
-Containers: Docker | Kubernetes | AWS ECS
+---
+
+## **✨ ABOUT ME**
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="60%">
+      <p align="left">
+        Data professional with <b>4+ years</b> of experience in building enterprise-grade analytics solutions. 
+        Specialized in designing and implementing <b>ML systems</b>, <b>executive dashboards</b>, and <b>data pipelines</b> that drive measurable business outcomes.
+        <br><br>
+        Passionate about translating complex data into actionable insights and building scalable data infrastructure.
+      </p>
+    </td>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="data analytics gif">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## **🛠️ TECH STACK**
+
+### **🤖 MACHINE LEARNING & AI**
+<div align="center">
+  
+| **Core ML** | **Deep Learning** | **NLP** | **Deployment** |
+|:-----------:|:-----------------:|:-------:|:--------------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="50" height="50" /> <br>Scikit-learn | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" /> <br>TensorFlow | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" /> <br>PyTorch | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" /> <br>Docker |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" /> <br>Pandas | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50" height="50" /> <br>Keras | <img src="https://spacy.io/favicon.ico" width="50" height="50" /> <br>spaCy | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" /> <br>K8s |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" /> <br>NumPy | <img src="https://www.gstatic.com/devrel-devsite/prod/vf7a4469c55e6a96f70c2f2114e8b46fc8f7d6a374acd2caed4f1c3b1b1c52b97/tensorflow/images/favicon.png" width="50" height="50" /> <br>TFX | <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="50" height="50" /> <br>HuggingFace | <img src="https://fastapi.tiangolo.com/img/favicon.png" width="50" height="50" /> <br>FastAPI |
+
+</div>
+
+### **📊 DATA VISUALIZATION & BI**
+<div align="center">
+  
+```python
+# Primary Stack
+bi_tools = {
+    "Power BI": ["DAX", "Power Query", "Premium Capacity"],
+    "Tableau": ["Server", "Prep", "Embedded"],
+    "Looker": ["LookML", "Studio", "Explores"],
+    "Python": ["Plotly", "Dash", "Seaborn", "Matplotlib"]
+}
