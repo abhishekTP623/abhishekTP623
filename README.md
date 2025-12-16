@@ -39,7 +39,80 @@ Hypothesis Testing • Probability • Statistical Inference • Regression Anal
 
 ## Technology Stack
 
-<p align="center"><sub><b>Core technologies I use to build data-driven, scalable, and business-focused solutions</b></sub></p>
+<p align="center">
+  <i>A refined, enterprise-focused toolkit used to deliver analytics, AI-driven insights, and business intelligence solutions</i>
+</p>
+
+---
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="33%">
+
+### Programming
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="48" />
+
+<br/>
+<b>Python</b> · Java · R
+</td>
+
+<td align="center" width="33%">
+
+### Databases
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="48" />
+
+<br/>
+<b>MySQL</b> · PostgreSQL · SQL
+</td>
+
+<td align="center" width="33%">
+
+### BI & Visualization
+
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/PowerBI.png" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" width="48" />
+
+<br/>
+<b>Power BI</b> · Tableau · Excel
+</td>
+</tr>
+</table>
+
+---
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
+
+### Data Analysis & Machine Learning
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" />
+
+<br/>
+Pandas · NumPy · Scikit-learn
+</td>
+
+<td align="center" width="50%">
+
+### Workflow & Version Control
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" />
+
+<br/>
+Git · GitHub · Documentation
+</td>
+</tr>
+</table>
 
 ---
 
@@ -111,7 +184,16 @@ Hypothesis Testing • Probability • Statistical Inference • Regression Anal
 ### 🔁 Version Control & Professional Workflow
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-Professional-F05032?style=for-the-badge&logo=git&logoColo
+  <img src="https://img.shields.io/badge/Git-Professional-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Professional-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" />
+</p>
+
+---
 
 ## Highlighted Projects
 
