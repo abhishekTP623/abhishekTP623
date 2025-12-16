@@ -1,89 +1,126 @@
-# 👋 Hi, I'm Abhishek T
+# 👨‍💼 Abhishek T
 
-## 🚀 Data & AI Analyst
+<p align="center">
+  <b>Data & AI Analyst | Business Intelligence | Machine Learning</b>
+</p>
 
-I am a **Data and AI Analyst** passionate about transforming raw data into meaningful insights and building data-driven solutions. I work with **data analytics, machine learning, visualization tools, and business intelligence** to solve real-world problems.
-
----
-
-## 🧠 Skills & Tools
-
-* **Programming & Analysis:** Python, SQL, Excel
-* **Data Science & ML:** Pandas, NumPy, Scikit-learn, Machine Learning Models
-* **Data Visualization:** Power BI, Excel Dashboards
-* **Analytics Domains:** Sentiment Analysis, Predictive Modeling, Customer Analytics, Fraud Detection
-* **Statistics:** Hypothesis Testing, Regression, Classification
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Data+%26+AI+Analyst;Power+BI+%7C+Excel+%7C+Python;Machine+Learning+%7C+Analytics;Turning+Data+into+Decisions" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 🧑‍💻 Professional Summary
 
-### 🔹 Twitter Sentiment Analysis
-
-* Analyzed tweets to identify public sentiment using NLP techniques
-* Text preprocessing, feature extraction, and sentiment classification
-
-### 🔹 Customer Segmentation
-
-* Segmented customers using clustering techniques
-* Helped identify customer groups for targeted marketing
-
-### 🔹 Housing Price Prediction
-
-* Built predictive models to estimate house prices
-* Applied regression algorithms and model evaluation techniques
-
-### 🔹 Wine Quality Analysis
-
-* Predicted wine quality based on chemical properties
-* Used exploratory data analysis and machine learning models
-
-### 🔹 Credit Card Fraud Detection
-
-* Identified fraudulent transactions using classification models
-* Worked with imbalanced datasets and performance metrics
-
-### 🔹 Spotify Trends Dashboard (Power BI)
-
-* Interactive dashboard analyzing music trends
-* Visualized popularity, artists, and listening patterns
-
-### 🔹 Sales & Profit Dashboard (Excel)
-
-* Business-focused Excel dashboard
-* Automated insights for sales and profit tracking
-
-### 🔹 Sales Dashboard (Power BI)
-
-* End-to-end Power BI dashboard
-* KPI tracking, trends, and interactive visuals
+Highly motivated **Data & AI Analyst** with strong expertise in **data analysis, machine learning, and business intelligence**. Experienced in building **end-to-end analytical solutions**, uncovering insights from complex datasets, and delivering **decision-ready dashboards** for stakeholders.
 
 ---
 
-## 📊 What I Do
+## 🛠️ Professional Skill Set
 
-* Clean, analyze, and visualize data
-* Build predictive and analytical models
-* Create dashboards for business insights
-* Convert data into actionable decisions
+### 📊 Data Analytics & BI
+
+* Advanced **Data Cleaning & Transformation**
+* **Exploratory Data Analysis (EDA)**
+* KPI Design & Business Metrics
+* Dashboard Development & Storytelling
+
+### 🤖 Machine Learning & AI
+
+* Supervised & Unsupervised Learning
+* Regression, Classification, Clustering
+* Model Evaluation & Optimization
+* Fraud Detection & Predictive Modeling
+
+### 🧮 Statistics & Mathematics
+
+* Hypothesis Testing
+* Probability & Distributions
+* Regression Analysis
+* Statistical Inference
+
+### 💻 Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,excel" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-Advanced-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Professional-blue?style=for-the-badge" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 📂 Key Projects
 
-* **LinkedIn:** [http://www.linkedin.com/in/abhishek-t-vnb123](http://www.linkedin.com/in/abhishek-t-vnb123)
-* **Email:** [abhishektp6235@gmail.com](mailto:abhishektp6235@gmail.com)
-* **Mobile:** +91 6235785922
-* **Instagram:** [https://instagram.com/](https://instagram.com/)
-* **Twitter (X):** [https://twitter.com/](https://twitter.com/)
-* **Facebook:** [https://facebook.com/](https://facebook.com/)
+### 📌 Twitter Sentiment Analysis
+
+* NLP-based sentiment classification
+* Text preprocessing & feature extraction
+* Business insight from social media data
+
+### 📌 Customer Segmentation
+
+* K-Means clustering & customer profiling
+* Actionable insights for marketing strategies
+
+### 📌 Housing Price Prediction
+
+* Regression-based predictive modeling
+* Feature engineering & performance tuning
+
+### 📌 Wine Quality Analysis
+
+* Data-driven quality prediction
+* Visualization & ML evaluation
+
+### 📌 Credit Card Fraud Detection
+
+* Imbalanced data handling
+* High-accuracy fraud classification models
+
+### 📊 Business Intelligence Dashboards
+
+🔹 **Spotify Trends Dashboard – Power BI**
+🔹 **Sales Dashboard – Power BI**
+🔹 **Sales & Profit Dashboard – Excel**
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Performance
 
-> Consistently learning, building projects, and improving my data & AI skills.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekTP623&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekTP623&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*
+## 🌐 Professional Presence
+
+<p align="left">
+  <a href="http://www.linkedin.com/in/abhishek-t-vnb123"><img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:abhishektp6235@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <img src="https://img.shields.io/badge/Mobile-%2B91%206235785922-success?style=for-the-badge" />
+</p>
+
+<p align="left">
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" /></a>
+</p>
+
+---
+
+## 🚀 Career Objective
+
+To leverage **data, analytics, and AI** to solve business problems, drive strategic decisions, and continuously grow as a **high-impact data professional**.
+
+---
+
+⭐ *Open to Data Analyst, AI Analyst, Business Intelligence, and Analytics roles*
