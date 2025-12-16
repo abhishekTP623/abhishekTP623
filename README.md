@@ -1,7 +1,7 @@
-<!-- Premium Animated Gradient Header -->
+<!-- Top Animated Wave Header -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,35:203a43,70:2c5364,100:1c1f2b&height=220&section=header&animation=fadeIn&reversal=false"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:203a43,100:2c5364&height=200&section=header&animation=fadeIn"
   />
 </p>
 
@@ -10,44 +10,43 @@
   Abhishek T
 </h1>
 
-<!-- Professional Identity -->
+<!-- Professional Title -->
 <p align="center">
   <b>Data & AI Analyst | Business Intelligence | Machine Learning</b>
 </p>
 
-<!-- Executive Value Statement -->
+<!-- Value Proposition -->
 <p align="center">
-  <i>Driving business outcomes through analytics, intelligence, and data-driven strategy</i>
+  <i>Transforming data into insights, intelligence, and business impact</i>
 </p>
 
-<!-- Animated Expertise Loop -->
+<!-- Animated Typing -->
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com
-      ?size=23
-      &duration=2400
+      ?size=22
+      &duration=2600
       &pause=900
       &color=2C5364
       &center=true
       &vCenter=true
-      &width=820
-      &lines=Data+Analytics+%7C+AI+%7C+Decision+Science;
-              Business+Intelligence+%7C+Power+BI+%26+Dashboards;
-              Machine+Learning+%7C+Predictive+%26+Statistical+Modeling;
-              Turning+Complex+Data+into+Actionable+Insights"
+      &width=760
+      &lines=Data+Analytics+%7C+AI+%7C+Decision+Intelligence;
+              Business+Intelligence+with+Power+BI;
+              Machine+Learning+%7C+Predictive+Analytics;
+              Analytics+That+Drive+Strategic+Decisions"
   />
 </p>
 
-<!-- Subtle Metrics Strip -->
+<!-- Stats Strip -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekTP623&style=flat-square&color=grey" />
 </p>
 
 <!-- Elegant Divider -->
 <p align="center">
-  ───────── ✦ ─────────
+  ─── ✦ ───
 </p>
-
 
 
 ## 📊 Professional Summary
