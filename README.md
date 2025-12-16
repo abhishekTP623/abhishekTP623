@@ -41,44 +41,44 @@ Hypothesis Testing • Probability • Statistical Inference • Regression Anal
 
 ### Programming Languages
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Advanced-blue?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Java-Intermediate-orange?style=flat-square&logo=java" />
-  <img src="https://img.shields.io/badge/R-Basic-blue?style=flat-square&logo=r" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-Advanced-1f77b4?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Intermediate-ed8b00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-Foundational-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
-### Databases & Querying
+### Databases & Query Languages
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-Advanced-blue?style=flat-square&logo=mysql" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-blue?style=flat-square&logo=postgresql" />
-  <img src="https://img.shields.io/badge/SQL-Advanced-yellow?style=flat-square" />
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Advanced-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-### Data Analysis & ML Libraries
+### Data Analysis & Machine Learning
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-Professional-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/NumPy-Professional-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-Professional-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/NLP-Professional-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Model%20Evaluation-Professional-success?style=flat-square" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-Professional-150458?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-Professional-013243?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-Professional-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-Professional-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-Professional-2E7D32?style=for-the-badge" />
 </p>
 
 ### Business Intelligence & Visualization
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Advanced-yellow?style=flat-square&logo=powerbi" />
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-blue?style=flat-square&logo=tableau" />
-  <img src="https://img.shields.io/badge/Excel-Advanced-green?style=flat-square&logo=microsoft-excel" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
-### Version Control & Workflow
+### Version Control & Professional Workflow
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-Professional-lightgrey?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-Professional-lightgrey?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Documentation-Professional-lightgrey?style=flat-square" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-Professional-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Professional-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Documentation-Professional-607D8B?style=for-the-badge" />
 </p>
 
 ---
