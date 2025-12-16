@@ -39,9 +39,27 @@ Hypothesis Testing • Probability • Statistical Inference • Regression Anal
 
 ## Technology Stack
 
-<p align="center">
-  <i>A refined, enterprise-focused toolkit used to deliver analytics, AI-driven insights, and business intelligence solutions</i>
-</p>
+<p align="left"><sub><i>Focused, job-relevant tools used in real analytics and AI projects</i></sub></p>
+
+### Programming & Querying
+
+Python · Java · SQL · R
+
+### Data Analysis & Machine Learning
+
+Pandas · NumPy · Scikit-learn · NLP · Predictive Modeling
+
+### Business Intelligence & Visualization
+
+Power BI · Excel · Tableau
+
+### Databases
+
+MySQL · PostgreSQL
+
+### Workflow
+
+Git · GitHub · Documentation
 
 ---
 
