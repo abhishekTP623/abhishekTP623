@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🏠 Housing Price Prediction
 
-<!--
-**abhishekTP623/abhishekTP623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-Here are some ideas to get you started:
+## 📋 Project Overview
+Predict housing prices using machine learning algorithms based on various features like location, size, and amenities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Features
+- Data preprocessing and feature engineering
+- Multiple ML algorithms comparison
+- Hyperparameter tuning with GridSearchCV
+- Feature importance visualization
+- Model deployment ready
+
+## 🛠️ Technologies Used
+- **Python** (Pandas, NumPy, Scikit-learn)
+- **Jupyter Notebook** for analysis
+- **Matplotlib/Seaborn** for visualization
+- **Flask** (optional for API)
+
+## 📁 Dataset
+The dataset contains housing features with price as the target variable.
+
+## 🚀 Installation & Usage
+```bash
+# Clone repository
+git clone https://github.com/yourusername/housing-price-prediction.git
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run analysis
+jupyter notebook housing_price_prediction.ipynb
