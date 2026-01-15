@@ -229,7 +229,7 @@ Hypothesis Testing • Probability • Statistical Inference • Regression Anal
 <p align="center">
 <a href="https://github.com/abhishekTP623" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.kaggle.com/abhishektp6235abhish" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-<a href="https://medium.com/@yourusername" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://medium.com/@abhishektp6235"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
 </div>
